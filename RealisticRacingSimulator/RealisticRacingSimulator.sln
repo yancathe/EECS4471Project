@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealisticRacingSimulator.CSharp", "RealisticRacingSimulator.CSharp.csproj", "{65186FEF-7D99-C6FB-5E53-51948D9F7A20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealisticRacingSimulator.CSharp.Editor", "RealisticRacingSimulator.CSharp.Editor.csproj", "{27E0B93F-7A64-5FDE-4287-51258609BA2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65186FEF-7D99-C6FB-5E53-51948D9F7A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65186FEF-7D99-C6FB-5E53-51948D9F7A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65186FEF-7D99-C6FB-5E53-51948D9F7A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65186FEF-7D99-C6FB-5E53-51948D9F7A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E0B93F-7A64-5FDE-4287-51258609BA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E0B93F-7A64-5FDE-4287-51258609BA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E0B93F-7A64-5FDE-4287-51258609BA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E0B93F-7A64-5FDE-4287-51258609BA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

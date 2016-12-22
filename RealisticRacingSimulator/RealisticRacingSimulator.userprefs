@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="RealisticRacingSimulator.CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\handOnWheel.cs">
+    <Files>
+      <File FileName="Assets\testHandGrab.cs" Line="15" Column="1" />
+      <File FileName="Assets\handOnWheel.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
